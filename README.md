@@ -70,6 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 This is a website which renders the Json UI Schema and convert it into a Form. Test the application by copy pasting the following Json schema in the text field given on the left of the application:
+
+
 [
     {
       "sort": 1,
